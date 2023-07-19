@@ -1,0 +1,95 @@
+.cont1{
+  margin-top: 100px;
+}
+
+.r1{
+  margin-left: 2rem;
+  margin-top: 5rem;
+  width:25%;
+  height: 2rem;
+  border: 3px;
+  border-radius: solid black;
+}
+
+.m1{
+  margin-left: 10;
+}
+
+.b1{
+  margin-left: 1rem;
+}
+
+.box1{
+  background-image: url('/public/images/Box9.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.inp1{
+  transform: translateY(2rem);
+  
+}
+
+.date1{
+    padding: 10px;
+    border: 1px solid;
+    width: 10rem;
+    height: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.boxe1{
+  margin-left: 10rem;
+}
+
+.boxe2{
+  margin-left: 30rem;
+  transform: translateY(-9.5rem);
+}
+
+.boxe3{
+  margin-left: 50rem;
+  transform: translateY(-19rem);
+}
+.footer {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.footer-links li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer-links li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links li a:hover {
+  color: #eaeaea;
+}
+.thiru{
+  color: #0c0c0c;
+}
